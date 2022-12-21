@@ -23,6 +23,7 @@ public class FileClassExample {
 		if(isfile)
 			System.out.println("it is a file");
 		
+		System.out.println("hi");
 	}
 
 }
