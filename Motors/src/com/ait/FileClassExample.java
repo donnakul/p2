@@ -22,6 +22,7 @@ public class FileClassExample {
 		isfile =anotherfile.isFile();
 		if(isfile)
 			System.out.println("it is a file");
+		
 		System.out.println("dchtyt");
 	}
 	
