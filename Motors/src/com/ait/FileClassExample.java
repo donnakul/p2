@@ -24,6 +24,7 @@ public class FileClassExample {
 			System.out.println("it is a file");
 		
 		System.out.println("hi...");
+		System.out.println("bye");
 	}
 
 }
